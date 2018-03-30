@@ -10,13 +10,26 @@ This project is licensed under the terms of the GNU GPLv3 license. A copy of the
 
 ## How to
 
-### 1. Download the file
+### On Linux
 
-Download the .c file [here](https://rawgit.com/jagannathBhat/socialNetwork/master/socialNetwork.c).
+#### 1. Download the file
 
-### 2. Compile it using gcc copmiler
+Download the object code file [here](https://rawgit.com/jagannathBhat/socialNetwork/master/socialNetwork.out).
 
-### 3. Run the object code
+#### 2. Run the object code
+```console
+./socialNetwork.out
+```
+
+### On other Operating Systems
+
+#### 1. Download the file
+
+Download the .c file [here](https://rawgit.com/jagannathBhat/socialNetwork/master/src/socialNetwork.c).
+
+#### 2. Compile it using acopmiler
+
+#### 3. Run the object code
 
 
 ## Support
