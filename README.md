@@ -27,7 +27,7 @@ Download the object code file [here](https://rawgit.com/jagannathBhat/socialNetw
 
 Download the .c file [here](https://rawgit.com/jagannathBhat/socialNetwork/master/src/socialNetwork.c).
 
-#### 2. Compile it using acopmiler
+#### 2. Compile it using a copmiler
 
 #### 3. Run the object code
 
